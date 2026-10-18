@@ -1,0 +1,57 @@
+{
+  "background": "menu/Work/okinawa/background.gif",
+  "images": [
+    {
+      "src": "menu/Work/okinawa/1.jpg",
+      "alt": "1"
+    },
+    {
+      "src": "menu/Work/okinawa/2.jpg",
+      "alt": "2"
+    },
+    {
+      "src": "menu/Work/okinawa/3.jpg",
+      "alt": "3"
+    },
+    {
+      "src": "menu/Work/okinawa/4.jpg",
+      "alt": "4"
+    },
+    {
+      "src": "menu/Work/okinawa/5.jpg",
+      "alt": "5"
+    },
+    {
+      "src": "menu/Work/okinawa/6.jpg",
+      "alt": "6"
+    },
+    {
+      "src": "menu/Work/okinawa/7.jpg",
+      "alt": "7"
+    },
+    {
+      "src": "menu/Work/okinawa/8.jpg",
+      "alt": "8"
+    },
+    {
+      "src": "menu/Work/okinawa/9.jpg",
+      "alt": "9"
+    },
+    {
+      "src": "menu/Work/okinawa/10.jpg",
+      "alt": "10"
+    },
+    {
+      "src": "menu/Work/okinawa/11.jpg",
+      "alt": "11"
+    },
+    {
+      "src": "menu/Work/okinawa/12.jpg",
+      "alt": "12"
+    },
+    {
+      "src": "menu/Work/okinawa/13.jpg",
+      "alt": "13"
+    }
+  ]
+}
