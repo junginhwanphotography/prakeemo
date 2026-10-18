@@ -2,27 +2,27 @@
   "background": null,
   "images": [
     {
-      "src": "menu/Publication/okinawa/1.jpg",
+      "src": "menu/Publication/okinawa/display/1.jpg",
       "alt": "1"
     },
     {
-      "src": "menu/Publication/okinawa/2.jpg",
+      "src": "menu/Publication/okinawa/display/2.jpg",
       "alt": "2"
     },
     {
-      "src": "menu/Publication/okinawa/3.jpg",
+      "src": "menu/Publication/okinawa/display/3.jpg",
       "alt": "3"
     },
     {
-      "src": "menu/Publication/okinawa/4.jpg",
+      "src": "menu/Publication/okinawa/display/4.jpg",
       "alt": "4"
     },
     {
-      "src": "menu/Publication/okinawa/5.jpg",
+      "src": "menu/Publication/okinawa/display/5.jpg",
       "alt": "5"
     },
     {
-      "src": "menu/Publication/okinawa/6.jpg",
+      "src": "menu/Publication/okinawa/display/6.jpg",
       "alt": "6"
     }
   ]

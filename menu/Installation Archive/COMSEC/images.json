@@ -2,27 +2,27 @@
   "background": null,
   "images": [
     {
-      "src": "menu/Installation Archive/COMSEC/1.jpg",
+      "src": "menu/Installation Archive/COMSEC/display/1.jpg",
       "alt": "1"
     },
     {
-      "src": "menu/Installation Archive/COMSEC/2.png",
+      "src": "menu/Installation Archive/COMSEC/display/2.jpg",
       "alt": "2"
     },
     {
-      "src": "menu/Installation Archive/COMSEC/3.png",
+      "src": "menu/Installation Archive/COMSEC/display/3.jpg",
       "alt": "3"
     },
     {
-      "src": "menu/Installation Archive/COMSEC/4.png",
+      "src": "menu/Installation Archive/COMSEC/display/4.jpg",
       "alt": "4"
     },
     {
-      "src": "menu/Installation Archive/COMSEC/5.png",
+      "src": "menu/Installation Archive/COMSEC/display/5.jpg",
       "alt": "5"
     },
     {
-      "src": "menu/Installation Archive/COMSEC/6.png",
+      "src": "menu/Installation Archive/COMSEC/display/6.jpg",
       "alt": "6"
     }
   ]

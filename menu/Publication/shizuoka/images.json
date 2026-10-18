@@ -2,27 +2,27 @@
   "background": null,
   "images": [
     {
-      "src": "menu/Publication/shizuoka/1.jpg",
+      "src": "menu/Publication/shizuoka/display/1.jpg",
       "alt": "1"
     },
     {
-      "src": "menu/Publication/shizuoka/2.jpg",
+      "src": "menu/Publication/shizuoka/display/2.jpg",
       "alt": "2"
     },
     {
-      "src": "menu/Publication/shizuoka/3.jpg",
+      "src": "menu/Publication/shizuoka/display/3.jpg",
       "alt": "3"
     },
     {
-      "src": "menu/Publication/shizuoka/4.jpg",
+      "src": "menu/Publication/shizuoka/display/4.jpg",
       "alt": "4"
     },
     {
-      "src": "menu/Publication/shizuoka/5.jpg",
+      "src": "menu/Publication/shizuoka/display/5.jpg",
       "alt": "5"
     },
     {
-      "src": "menu/Publication/shizuoka/6.jpg",
+      "src": "menu/Publication/shizuoka/display/6.jpg",
       "alt": "6"
     }
   ]

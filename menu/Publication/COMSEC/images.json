@@ -2,27 +2,27 @@
   "background": null,
   "images": [
     {
-      "src": "menu/Publication/COMSEC/1.jpg",
+      "src": "menu/Publication/COMSEC/display/1.jpg",
       "alt": "1"
     },
     {
-      "src": "menu/Publication/COMSEC/2.png",
+      "src": "menu/Publication/COMSEC/display/2.jpg",
       "alt": "2"
     },
     {
-      "src": "menu/Publication/COMSEC/3.png",
+      "src": "menu/Publication/COMSEC/display/3.jpg",
       "alt": "3"
     },
     {
-      "src": "menu/Publication/COMSEC/4.png",
+      "src": "menu/Publication/COMSEC/display/4.jpg",
       "alt": "4"
     },
     {
-      "src": "menu/Publication/COMSEC/5.png",
+      "src": "menu/Publication/COMSEC/display/5.jpg",
       "alt": "5"
     },
     {
-      "src": "menu/Publication/COMSEC/6.png",
+      "src": "menu/Publication/COMSEC/display/6.jpg",
       "alt": "6"
     }
   ]

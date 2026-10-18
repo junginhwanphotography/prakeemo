@@ -42,14 +42,18 @@
   }
 
   function imageUrl(collectionId, item, folder) {
-    const filename = fileStem(item && item.src) && (item.src.split("/").pop() || item.src);
+    const src = String((item && item.src) || "");
+    if (src.startsWith("menu/")) {
+      return src.split("/").map((part) => encodeURIComponent(part)).join("/");
+    }
+    const filename = src.split("/").pop() || "";
     return (
       "menu/" +
       encodeURIComponent(folder || "Work") +
       "/" +
       encodeURIComponent(collectionId) +
       "/" +
-      encodeURIComponent(filename || "")
+      encodeURIComponent(filename)
     );
   }
 
@@ -356,6 +360,7 @@
         });
       }
       clearTrack();
+      warmNeighbors();
     }
 
     function setOverview(open) {
@@ -415,6 +420,25 @@
     });
 
     imageEl.draggable = false;
+    const warmed = new Set();
+
+    function warm(item) {
+      if (!item || isHtmlItem(item)) return;
+      const url = imageUrl(collectionId, item, library.folder);
+      if (warmed.has(url)) return;
+      warmed.add(url);
+      const img = new Image();
+      img.decoding = "async";
+      img.src = url;
+    }
+
+    function warmNeighbors() {
+      const count = images.length;
+      if (count < 2) return;
+      warm(images[(index - 1 + count) % count]);
+      warm(images[(index + 1) % count]);
+    }
+
     let drag = null;
 
     function endDrag() {
